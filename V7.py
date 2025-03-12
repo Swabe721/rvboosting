@@ -5265,7 +5265,7 @@ def jovan():
 {green}╰────────────────────────────────────────────────────────────────────────╯
 
  {white}┌──{red}[ {green} AUTHOR/OWNER {red} ]
- {white}╰────── {green}❯{yellow}❯{purple}❯{white}❯ {red} A D M I N  Y U S H  """)
+ {white}╰────── {green}❯{yellow}❯{purple}❯{white}❯ {red} RV BOOSTING """)
  
 purple = "\033[1;35m"
 blue = "\033[34m"
