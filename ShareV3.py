@@ -111,7 +111,7 @@ def slow_print(text, delay=0.1):
 
 # Example Usage
 
-slow_print("'\x1b[1;94m'Welcome to MAIN  Tools ", delay=0.01)
+slow_print("'\x1b[1;94m'Welcome to rvboosting  Tools ", delay=0.01)
 slow_print(" '\x1b[1;31m  This Tools Is strictly 1 device only , Purchase a full script to use Multiple Devices ", delay= 0.01)
 slow_print (" \x1b[1;31m Loading PLEASE WAIT ... ", delay= 0.07)
 
@@ -138,7 +138,7 @@ def logo():
 {P}└──────────────────────────────────────────────────────────────────────┘
 
  {W}┌──{R}[ {S}AUTHOR/OWNER{R} ]
- {W}╰────── {G}❯{Y}❯{O}❯{W}❯ {Y}SYTHE """)
+ {W}╰────── {G}❯{Y}❯{O}❯{W}❯ {Y}RVBOOSTING """)
 
 
 def clear():
