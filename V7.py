@@ -1,4 +1,4 @@
-#CODE BY Sythe
+#CODE BY RVBOOSTING
 import requests
 import re
 import os
